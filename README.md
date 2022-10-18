@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @electronistu
-- 👀 I’m interested so many things that I don't know anything
+- 👀 I’m interested in so many things that I don't know anything
 - 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on anything that will help me prove my skills.
+- 💞️ I’m looking to collaborate on anywhere I can be at use
 - 📫 How to reach me ...
 
 <!---
