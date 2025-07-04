@@ -50,3 +50,4 @@ I am passionate about architecting robust, elegant solutions to complex problems
 ---
 
  💬 **Ask me about:** AWS Serverless, Python, API Security, Building Autonomous Agents
+ 📫 **How to reach me:** [hahapa@proton.me](mailto:hahapa@proton.me)
