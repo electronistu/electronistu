@@ -48,3 +48,5 @@ I am passionate about architecting robust, elegant solutions to complex problems
 </table>
 
 ---
+
+ 💬 **Ask me about:** AWS Serverless, Python, API Security, Building Autonomous Agents
