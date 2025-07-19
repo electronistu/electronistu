@@ -1,6 +1,7 @@
-Cloud Architect & Python Developer specializing in autonomous systems and secure, developer-centric tools.
+### Hi there 👋
+I'm a **Generative AI Specialist & Cloud Architect** specializing in the design and deployment of intelligent, agentic systems.
 
-I am passionate about architecting robust, elegant solutions to complex problems. My work lives at the intersection of scalable cloud infrastructure (AWS), secure application design, and the practical implementation of intelligent automation. I believe in a security-first mindset and writing clean, purposeful code that is both powerful and maintainable.
+My passion is architecting solutions that bridge the gap between complex data and intuitive AI interaction (**Graph RAG**) and full-stack **serverless applications**. I focus on building robust, end-to-end systems that solve real-world problems, combining a deep understanding of Python with modern cloud and web technologies.
 
 ---
 
@@ -20,7 +21,19 @@ I am passionate about architecting robust, elegant solutions to complex problems
       </a>
       <br>AWS
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="#radutatarumarinescu">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#radutatarumarinescu">
+        <img src="httpshttps://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
       <a href="#radutatarumarinescu">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
@@ -49,6 +62,6 @@ I am passionate about architecting robust, elegant solutions to complex problems
 
 ---
 
- 💬 **Ask me about:** AWS Serverless, Python, API Security, Building Autonomous Agents
- 
- 📫 **How to reach me:** [hahapa@proton.me](mailto:hahapa@proton.me)
+💬 **Ask me about:** Generative AI & RAG Systems, Serverless Architecture on AWS, Agentic AI Design, Python for Cloud & AI
+
+📫 **How to reach me:** [radu.tataru@gmail.com](mailto:radu.tataru@gmail.com)
