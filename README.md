@@ -1,8 +1,12 @@
-### Hi there 👋
-I'm a **Generative AI Specialist & Cloud Architect** specializing in the design and deployment of intelligent, agentic systems.
+Hi there 👋
 
-My passion is architecting solutions that bridge the gap between complex data and intuitive AI interaction (**Graph RAG**) and full-stack **serverless applications**. I focus on building robust, end-to-end systems that solve real-world problems, combining a deep understanding of Python with modern cloud and web technologies.
+I design the minds of machines.
 
+My work focuses on moving beyond conventional AI to architect truly autonomous, reasoning agents. I specialize in creating the **cognitive architectures** and **symbolic protocols** that allow an AI to think, synthesize information, and collaborate with humans on complex problems.
+
+My latest project, **Project Synapse**, is a blueprint for an agent that fuses different modes of thought—inductive, analogical, and common ground reasoning—into a unified cognitive loop.
+
+While I have a deep background in building the foundations of AI with Graph RAG and deploying scalable cloud systems, my true passion lies in defining the *core logic* that drives the next generation of machine intelligence. My goal is to build AI that doesn't just answer questions, but acts as a true partner in discovery and innovation.
 ---
 
 ### languages_and_tools:
