@@ -20,7 +20,7 @@ My philosophy on codified agents is demonstrated through an evolution of two key
 This project was the foundational proof-of-concept. It demonstrated that a general-purpose LLM could be transformed into a specialized, stateful agent (a "Game Master") by using a structured, codified protocol (`GameMaster.md`). It solved the problem of consistency and portability for simulation and gaming environments.
 
 #### Project Synapse (The Evolution)
-This is my flagship project, evolving the concept of a codified agent into a `v5` cognitive architecture for business strategy. Where Project Infinity used a state machine, Project Synapse uses a parallel **Cognitive Loop** and features:
+This is my flagship project, evolving the concept of a codified agent into a cognitive architecture for business strategy. Where Project Infinity used a state machine, Project Synapse uses a parallel **Cognitive Loop** and features:
 
 - **Metacognitive Self-Correction:** To critique its own logic and biases.
 - **Dynamic Memory & Focused Attention:** To weigh hypotheses and allocate cognitive resources efficiently.
