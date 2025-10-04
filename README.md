@@ -1,15 +1,37 @@
-Hi there 👋
+# Hi there, I'm Radu 👋
 
-I design the minds of machines.
+> ### Designing the minds of machines.
 
-My work focuses on moving beyond conventional AI to architect truly autonomous, reasoning agents. I specialize in creating the **cognitive architectures** and **symbolic protocols** that allow an AI to think, synthesize information, and collaborate with humans on complex problems.
-
-My latest project, **Project Synapse**, is a blueprint for an agent that fuses different modes of thought—inductive, analogical, and common ground reasoning—into a unified cognitive loop.
-
-While I have a deep background in building the foundations of AI with Graph RAG and deploying scalable cloud systems, my true passion lies in defining the *core logic* that drives the next generation of machine intelligence. My goal is to build AI that doesn't just answer questions, but acts as a true partner in discovery and innovation.
 ---
 
-### languages_and_tools:
+### My Philosophy
+
+I believe the next leap in artificial intelligence will come not from larger models, but from superior **cognitive architectures**. My work focuses on moving beyond conventional AI to design truly autonomous, reasoning agents that can collaborate with humans on complex problems.
+
+My goal is to build AI that doesn't just answer questions, but acts as a true partner in discovery and innovation.
+
+---
+
+### Featured Projects
+
+My philosophy on codified agents is demonstrated through an evolution of two key projects:
+
+#### Project Infinity (The Foundation)
+This project was the foundational proof-of-concept. It demonstrated that a general-purpose LLM could be transformed into a specialized, stateful agent (a "Game Master") by using a structured, codified protocol (`GameMaster.md`). It solved the problem of consistency and portability for simulation and gaming environments.
+
+#### Project Synapse (The Evolution)
+This is my flagship project, evolving the concept of a codified agent into a `v5` cognitive architecture for business strategy. Where Project Infinity used a state machine, Project Synapse uses a parallel **Cognitive Loop** and features:
+
+- **Metacognitive Self-Correction:** To critique its own logic and biases.
+- **Dynamic Memory & Focused Attention:** To weigh hypotheses and allocate cognitive resources efficiently.
+
+Together, these projects showcase a clear progression in designing and building increasingly sophisticated and capable artificial intellects.
+
+---
+
+### Foundational Skills & Tools
+
+While my passion is in defining the core logic for the next generation of AI, I have a deep background in building and deploying the robust, scalable systems that make it all possible.
 
 <table>
   <tr>
@@ -33,7 +55,7 @@ While I have a deep background in building the foundations of AI with Graph RAG 
     </td>
     <td align="center" width="96">
       <a href="#radutatarumarinescu">
-        <img src="httpshttps://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
@@ -66,6 +88,6 @@ While I have a deep background in building the foundations of AI with Graph RAG 
 
 ---
 
-💬 **Ask me about:** Generative AI & RAG Systems, Serverless Architecture on AWS, Agentic AI Design, Python for Cloud & AI
+💬 **Ask me about:** Cognitive Architectures, Agentic AI Design, Generative AI & RAG Systems, Serverless on AWS
 
 📫 **How to reach me:** [radu.tataru@gmail.com](mailto:radu.tataru@gmail.com)
