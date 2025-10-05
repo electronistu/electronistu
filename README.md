@@ -6,26 +6,25 @@
 
 ### My Philosophy
 
-I believe the next leap in artificial intelligence will come not from larger models, but from superior **cognitive architectures**. My work focuses on moving beyond conventional AI to design truly autonomous, reasoning agents that can collaborate with humans on complex problems.
+I believe the next leap in artificial intelligence will come not from larger models, but from superior **cognitive architectures**. My work focuses on creating AI that acts as a powerful, complementary tool for human thought—a sparring partner for the mind that helps us see our own ideas in new and challenging ways.
 
-My goal is to build AI that doesn't just answer questions, but acts as a true partner in discovery and innovation.
+My goal is to build AI that doesn't just give answers, but enhances our own ability to think.
 
 ---
 
-### Featured Projects
+### Featured Project: Project Eidolon
 
-My philosophy on codified agents is demonstrated through an evolution of two key projects:
+This philosophy is embodied in my latest work, **Project Eidolon**, a "Cognitive Refractor." This agent takes a single user concept and refracts it through six distinct intellectual domains (from Physics to Philosophy, including a creative **Divergent** lens) to reveal hidden assumptions, biases, and new avenues for innovation. It's a powerful, conversational tool for stress-testing ideas and augmenting human creativity.
 
-#### Project Infinity (The Foundation)
-This project was the foundational proof-of-concept. It demonstrated that a general-purpose LLM could be transformed into a specialized, stateful agent (a "Game Master") by using a structured, codified protocol (`GameMaster.md`). It solved the problem of consistency and portability for simulation and gaming environments.
+### The Evolution of an Idea
 
-#### Project Synapse (The Evolution)
-This is my flagship project, evolving the concept of a codified agent into a cognitive architecture for business strategy. Where Project Infinity used a state machine, Project Synapse uses a parallel **Cognitive Loop** and features:
+My work represents a clear progression in designing increasingly robust and sophisticated agentic systems:
 
-- **Metacognitive Self-Correction:** To critique its own logic and biases.
-- **Dynamic Memory & Focused Attention:** To weigh hypotheses and allocate cognitive resources efficiently.
+1.  **Project Infinity (The Foundation):** This project proved that a codified protocol could transform a general-purpose LLM into a consistent, stateful agent for complex simulations.
 
-Together, these projects showcase a clear progression in designing and building increasingly sophisticated and capable artificial intellects.
+2.  **Project Synapse (The Architect):** This project evolved the concept into a `v10` cognitive architecture, creating a powerful AI strategist with six parallel trains of thought. It also successfully mapped the frontiers of current LLMs, revealing the challenges of abstraction and tool use at the highest levels.
+
+3.  **Project Eidolon (The Tool):** This is the culmination of all previous lessons. It is an agent designed for maximum impact and portability by being a pure, tool-free, conversational reasoner. It takes the advanced cognitive framework of Synapse and refines it into an elegant, powerful, and universally applicable tool for thought.
 
 ---
 
@@ -88,6 +87,6 @@ While my passion is in defining the core logic for the next generation of AI, I 
 
 ---
 
-💬 **Ask me about:** Cognitive Architectures, Agentic AI Design, Generative AI & RAG Systems, Serverless on AWS
+💬 **Ask me about:** Cognitive Architectures, Agentic AI Design, Symbolic Protocols, Tools for Thought
 
 📫 **How to reach me:** [radu.tataru@gmail.com](mailto:radu.tataru@gmail.com)
