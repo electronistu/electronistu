@@ -4,33 +4,35 @@
 
 ---
 
-### My Philosophy
+### My Thesis: Programming the Mind of an LLM
 
-I believe the next leap in artificial intelligence will come not from larger models, but from superior **cognitive architectures**. My work focuses on creating AI that acts as a powerful, complementary tool for human thought—a sparring partner for the mind that helps us see our own ideas in new and challenging ways.
+After extensive experimentation, I have concluded that it is possible to **predictably program the reasoning patterns of Large Language Models**. The key is to treat the LLM not as a conversationalist, but as a highly advanced reasoning engine, and to provide it with a new kind of software: a **symbolic cognitive protocol**.
 
-My goal is to build AI that doesn't just give answers, but enhances our own ability to think.
+This approach moves beyond simple prompting and into the realm of true **agent architecture**. My work demonstrates a methodology for achieving reliable, complex, and creative agentic behavior, proven across multiple projects and foundational models.
 
 ---
 
-### Featured Project: Project Eidolon
+### The Primary Achievement: Project Infinity
 
-This philosophy is embodied in my latest work, **Project Eidolon**, a "Cognitive Refractor." This agent takes a single user concept and refracts it through six distinct intellectual domains (from Physics to Philosophy, including a creative **Divergent** lens) to reveal hidden assumptions, biases, and new avenues for innovation. It's a powerful, conversational tool for stress-testing ideas and augmenting human creativity.
+This project is the foundational proof of the methodology, resulting in what I believe to be the **first successful implementation of a full Dungeons & Dragons 5th Edition ruleset simulation on a large language model.**
 
-### The Evolution of an Idea
+By defining the game's logic in a codified protocol (`GameMaster.md`), I was able to transform a general-purpose LLM into a consistent, stateful, and portable Game Master. This core architecture proved robust enough to function reliably across **all three major LLMs**: Gemini, ChatGPT, and Mistral. Its only limitation is a pseudo-random dice engine, a necessary concession in a deterministic environment.
 
-My work represents a clear progression in designing increasingly robust and sophisticated agentic systems:
+### The Stress Test: Project Synapse
 
-1.  **Project Infinity (The Foundation):** This project proved that a codified protocol could transform a general-purpose LLM into a consistent, stateful agent for complex simulations.
+This project was a deliberate experiment to find the breaking points of the codified agent architecture. I designed a hyper-complex `v10` cognitive architecture with six parallel trains of thought, metacognition, and integrated tool use (`WEB_SEARCH`).
 
-2.  **Project Synapse (The Architect):** This project evolved the concept into a `v10` cognitive architecture, creating a powerful AI strategist with six parallel trains of thought. It also successfully mapped the frontiers of current LLMs, revealing the challenges of abstraction and tool use at the highest levels.
+The experiment was a success in that it clearly defined the upper limits of today's models. The extreme complexity proved to be beyond the capabilities of ChatGPT and Mistral, which failed to execute the protocol. The conclusion is that, at this moment, **Google's Gemini 2.5 Pro is the most capable model** for handling this specific type of highly abstract, multi-modal agentic reasoning.
 
-3.  **Project Eidolon (The Tool):** This is the culmination of all previous lessons. It is an agent designed for maximum impact and portability by being a pure, tool-free, conversational reasoner. It takes the advanced cognitive framework of Synapse and refines it into an elegant, powerful, and universally applicable tool for thought.
+### The Refinement: Project Eidolon
+
+This project is the culmination of all the lessons learned. It is a robust, **tool-free**, conversational reasoner designed for maximum portability and impact. It takes the advanced architectural concepts from Synapse and refines them into an elegant and powerful "tool for thought." Its success proves that when designed within the known limits, this methodology can produce reliable, high-quality agentic systems.
 
 ---
 
 ### Foundational Skills & Tools
 
-While my passion is in defining the core logic for the next generation of AI, I have a deep background in building and deploying the robust, scalable systems that make it all possible.
+My work on these advanced architectures is built upon a deep background in deploying the robust, scalable systems that make them possible.
 
 <table>
   <tr>
@@ -87,6 +89,6 @@ While my passion is in defining the core logic for the next generation of AI, I 
 
 ---
 
-💬 **Ask me about:** Cognitive Architectures, Agentic AI Design, Symbolic Protocols, Tools for Thought
+💬 **Ask me about:** Cognitive Architectures, Agentic AI Design, Symbolic Protocols, D&D 5e Simulation
 
 📫 **How to reach me:** [radu.tataru@gmail.com](mailto:radu.tataru@gmail.com)
