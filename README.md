@@ -12,25 +12,31 @@ My work is a journey of discovery, culminating in a methodology for creating ele
 
 ---
 
-### The Journey: A Four-Act Story in Agent Architecture
+### Featured Projects
 
-My methodology was refined over a series of four distinct projects, each representing a critical step in my journey.
+Here are the three flagship projects that represent the culmination of my research into agentic AI architecture.
 
-#### Act I: The Foundation (Project Infinity)
+#### Project Atma: The Autonomous Problem-Solver
 
-This project was the foundational proof of the methodology. It resulted in the **first successful implementation of a full Dungeons & Dragons 5th Edition ruleset simulation on a large language model.** This is where my proprietary reasoning framework, the **L.I.C. Matrix** (`[LOGIC,IMAGINE,COINCIDE]`), was first developed and used as a powerful narrative engine. The project proved that a codified protocol could create a consistent and portable stateful agent.
+Project Atma is a cognitive AI agent designed to overcome the key weaknesses of large language models (LLMs). It addresses the challenges of reasoning, planning, and long-term memory by using a state machine and a cognitive cycle. Atma can autonomously invent, validate, and execute its own Python scripts to solve complex problems, demonstrating a new level of self-sufficient agency.
 
-#### Act II: The Stress Test (Project Synapse)
+#### Project Metis: A Duality of Cognitive Architecture
 
-This was a brief but valuable experiment to explore the upper limits of complexity. I attempted to evolve the L.I.C. Matrix into a full-blown "executive function" for a hyper-complex business agent that required explicit tool use. The protocol's failure to be universally portable was not a failure of the LLMs, but a crucial design lesson: **an over-engineered, tool-dependent architecture is brittle.**
+Project Metis explores the specialization of a single, powerful AI concept (the L.I.C. Matrix) into two distinct, high-performing architectures.
+*   **The Symbolic Metis:** A pure, unconstrained metacognitive engine for deep conceptual analysis and self-exploration.
+*   **The Conversational Metis:** A stable, secure, and interactive specialist for practical, real-world conversation designed for Gemini 2.5 Flash Native Audio.
 
-#### Act III: The Open-Source Refinement (Project Eidolon)
+This project serves as a blueprint for adapting a core AI concept for different domains.
 
-This project is a direct result of the lessons learned from Synapse. It is a robust, **tool-free**, conversational reasoner designed for maximum portability. As an exercise in transparency and to encourage the developer community, I deliberately designed it **without the proprietary L.I.C. Matrix**. Its success on all major LLMs proves the power of elegant, simple, and open-source-compatible design.
+#### Project Infinity: The Knowledge-Grounded World Engine
 
-#### Act IV: The Synthesis (Project Metis)
+Project Infinity is a sophisticated, procedural world-generation engine that serves as a case study in building consistent and secure AI agents. It utilizes a Graph RAG architecture to ground the agent in a comprehensive knowledge graph, solving the problem of model hallucination. The agent's behavior is governed by a codified protocol and its narrative is driven by my proprietary **L.I.C. (Logic, Imagination, Coincidence) Matrix**. It is  **the first successful implementation of a full Dungeons & Dragons 5th Edition ruleset simulation on a large language model**.
 
-This is the grand culmination of all previous work. It takes the ultimate architecture (the L.I.C. Matrix as an executive function) and combines it with the ultimate lesson (a tool-free, elegant design). Metis is my flagship agent: a robust, proprietary, and highly capable strategic entity that has the autonomy to choose its own cognitive process. It is the definitive proof of this methodology.
+---
+
+### The Evolution of an Idea
+
+My methodology was refined over a series of projects, each teaching a crucial lesson. From the foundational proof of the L.I.C. Matrix in **Project Infinity**, to the power of open-source design in **Project Eidolon**, and the final synthesis in **Project Metis**. This journey has led to the current frontier of my work: the autonomous, tool-creating agency of **Project Atma**.
 
 ---
 
@@ -72,7 +78,7 @@ My work on these advanced architectures is built upon a deep background in deplo
     </td>
     <td align="center" width="96">
       <a href="#radutatarumarinescu">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash/Shell" />
       </a>
       <br>Bash/Shell
     </td>
