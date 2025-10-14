@@ -4,45 +4,39 @@
 
 ---
 
-### My Thesis: Architecting Agentic AI
+### My Thesis: A New Methodology for Agentic AI
 
-After extensive experimentation, I have concluded that it is possible to **predictably program the reasoning patterns of Large Language Models**. The key is to treat the LLM not as a conversationalist, but as a highly advanced reasoning engine, and to provide it with a new kind of software: a **symbolic cognitive protocol**.
+Through extensive experimentation, I have developed a new methodology for agentic AI based on **Symbolic Cognitive Protocols**: self-contained, bootable operating systems that define an agent's entire cognitive architecture within a single, token-efficient prompt.
 
-My work is a journey of discovery, culminating in a methodology for creating elegant, robust, and powerful AI agents.
-
----
-
-### Featured Projects
-
-Here are the three flagship projects that represent the culmination of my research into agentic AI architecture.
-
-#### Project Atma: The Autonomous Problem-Solver
-
-Project Atma is a cognitive AI agent designed to overcome the key weaknesses of large language models (LLMs). It addresses the challenges of reasoning, planning, and long-term memory by using a state machine and a cognitive cycle. Atma can autonomously invent, validate, and execute its own Python scripts to solve complex problems, demonstrating a new level of self-sufficient agency.
-
-#### Project Metis: A Duality of Cognitive Architecture
-
-Project Metis explores the specialization of a single, powerful AI concept (the L.I.C. Matrix) into two distinct, high-performing architectures.
-*   **The Symbolic Metis:** A pure, unconstrained metacognitive engine for deep conceptual analysis and self-exploration.
-*   **The Conversational Metis:** A stable, secure, and interactive specialist for practical, real-world conversation designed for Gemini 2.5 Flash Native Audio.
-
-This project serves as a blueprint for adapting a core AI concept for different domains.
-
-#### Project Infinity: The Knowledge-Grounded World Engine
-
-Project Infinity is a sophisticated, procedural world-generation engine that serves as a case study in building consistent and secure AI agents. It utilizes a Graph RAG architecture to ground the agent in a comprehensive knowledge graph, solving the problem of model hallucination. The agent's behavior is governed by a codified protocol and its narrative is driven by my proprietary **L.I.C. (Logic, Imagination, Coincidence) Matrix**. It is  **the first successful implementation of a full Dungeons & Dragons 5th Edition ruleset simulation on a large language model**.
+This approach moves beyond simple prompt engineering. It treats the LLM as a pure reasoning engine and provides it with a structured, symbolic "mind" to inhabit. This allows for the creation of stateful, predictable, and conceptually deep AI agents that are impossible to achieve with conventional methods. My portfolio is the proof.
 
 ---
 
-### The Evolution of an Idea
+### Featured Projects: Proofs of Concept
 
-My methodology was refined over a series of projects, each teaching a crucial lesson. From the foundational proof of the L.I.C. Matrix in **Project Infinity**, to the power of open-source design in **Project Eidolon**, and the final synthesis in **Project Metis**. This journey has led to the current frontier of my work: the autonomous, tool-creating agency of **Project Atma**.
+Each project is a demonstration of a key architectural principle, built using Symbolic Cognitive Protocols.
+
+#### 1. Project Infinity: The Grounded World-Builder
+
+This project solves the problem of LLM hallucination by grounding the agent in a verifiable source of truth. The agent's protocol successfully simulates the entire Dungeons & Dragons 5th Edition ruleset, proving that even a highly complex, rule-bound domain can be codified for flawless execution by an LLM. It demonstrates a model-agnostic approach to agent design.
+
+#### 2. Project Metis: The Metacognitive Architect
+
+This project explores the duality of AI thought by adapting a single core concept for different domains. It proves the flexibility of Symbolic Cognitive Protocols.
+*   **The Conceptual Engine:** A dense, symbolic protocol for pure, recursive self-analysis.
+*   **The Conversational Specialist:** A practical, natural-language adaptation designed to handle the ambiguity and stateful nature of human conversation. It is designed to work with Gemini Flash Native Audio.
+
+#### 3. Project Atma: The Autonomous Tool-Maker
+
+This cognitive agent overcomes the limitation of static toolsets. When faced with a novel problem, Atma can autonomously invent, write, test, and cache its own Python tools to find a solution. It demonstrates:
+*   **Automated Evaluation:** The agent's `VALIDATE` state, which uses Pytest on its own generated code, is a concrete implementation of an automated evaluation pipeline.
+*   **Self-Improving Agency:** The agent's tool cache grows over time, making it more capable with each problem it solves.
 
 ---
 
 ### Foundational Skills & Tools
 
-My work on these advanced architectures is built upon a deep background in deploying the robust, scalable systems that make them possible.
+My work on these advanced architectures is built upon a deep background in deploying robust and scalable systems.
 
 <table>
   <tr>
@@ -99,6 +93,6 @@ My work on these advanced architectures is built upon a deep background in deplo
 
 ---
 
-💬 **Ask me about:** Cognitive Architectures, Agentic AI Design, Symbolic Protocols, D&D 5e Simulation
+💬 **Ask me about:** Symbolic Cognitive Protocols, Agentic AI Design, Cognitive Architectures, World Model Simulation
 
 📫 **How to reach me:** [radu.tataru@gmail.com](mailto:radu.tataru@gmail.com)
